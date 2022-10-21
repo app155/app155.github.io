@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://app155.github.io/sitemap.xml
+Sitemap: https://app155.github.io/my_sitemap.xml
