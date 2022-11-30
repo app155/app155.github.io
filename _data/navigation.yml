@@ -13,9 +13,12 @@ main:
 sidebar-category:
   - title: "Category"
     children:
-      - title: "etc"
-        url: /categories/etc
-        category: "etc"
+      - title: "Algorithm"
+        url: /categories/Algorithm
+        category: "Algorithm"
       - title: "Test"
         url: /categories/test
         category: "Test"
+      - title: "etc"
+        url: /categories/etc
+        category: "etc"  
